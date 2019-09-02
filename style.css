@@ -1,0 +1,463 @@
+/* Styling for navbar starts here */
+.navbar{
+    height:60px;
+}
+
+.nav-link .dropdown-toggle:hover{
+    display: block;
+}
+
+.dropdown-menu:hover{
+    display: block;
+}
+#input{
+    height:30px;
+} 
+
+#search_button{
+    height:30px;
+    width:70px;
+}
+/* Styling for navbar ends here */
+
+/* Styling for section1 starts */
+#section1 {
+    background: linear-gradient(180deg, rgba(255, 200, 87, 0.74) 10.62%, rgba(27, 38, 75, 0.7)51.19%) ,url('images/Rectangle.png');
+    height:600px;
+    width:100%;
+}
+
+#First-h1{
+    padding-top:190px;
+    color:white;
+    font-weight: 500;
+    font-size:50px;
+}
+
+#First-h3{
+    color:white;
+    font-weight:100;
+}
+
+#First-button{
+    margin-left:455px;
+    height:60px;
+    width:210px;
+    font-size:25px;
+    background-color: transparent;
+    border:1px solid white;
+}
+
+.frm{
+    height:145px;
+    width:1100px;
+    background-color:white;
+    margin-top:150px;
+    border-style: dashed;
+    border-color: lightgray;
+}
+
+#First-input{
+    height:70px;
+    width:350px;
+    margin-left:40px;
+    margin-top:30px;
+}
+
+#Second-button{
+    width:350px;
+    height:70px;
+    border:1px solid lightgray;
+    margin-left:50px;
+    margin-top:30px;
+}
+
+#First-box{
+    width:200px;
+    height:70px;
+    margin-left:50px;
+    margin-top:30px;
+    padding-top:20px;
+}
+/* Styling for section1 ends here */
+
+
+/* Styling for section2 starts here */
+#section2{
+    margin-top:50px;
+}
+
+.about_div{
+    border:1px solid orange;
+    width:30px;
+    height:4px;
+    margin-left:509px;
+    margin-bottom: -30px;
+    margin-top:185px; 
+}
+
+#about-h1_1{
+    color:black;
+    font-size:20px;
+    padding-top:10px;
+}
+
+.about-body{
+    width:765px;
+    height:410px;
+    margin:auto auto;
+    background-color: rgb(91, 2, 255);
+}
+
+#about-h1_2{
+    font-size:30px;
+    padding:auto auto;
+}
+
+.about-p1{
+    padding:auto auto;
+    font-size: 15px;
+}
+
+#First-h4{
+    padding-left: 90px;
+}
+
+.about-image {
+    height:410px;
+    width:auto auto;
+    margin-top:-549px;
+    margin-left:100px;
+}
+/* Styling for section2 ends here */
+
+
+/* Styling for section3 starts here */
+#exper-h1{
+    padding-top:80px;
+    text-shadow: 2px 2px 5px grey;
+}
+
+#First-row{
+    margin:auto auto;
+}
+
+#First-card{
+    width:400px;
+    margin-left:120px;
+}
+
+#First-Card-Img{
+    width:100px;
+    height:50px;
+    margin:auto;
+}
+#Second-card{
+    width:400px;
+}
+
+#Second-card-img{
+    width:100px;
+    height:50px;
+    margin:auto;
+}
+
+#Second-row{
+    margin:auto auto;
+}
+#Third-card{
+    width:400px;
+    margin-left:120px;
+}
+
+#Third-card-image{
+    width:100px;
+    height:50px;
+    margin:auto;
+}
+
+#Fourth-card{
+    width:400px;
+}
+
+#Fourth-card-image{
+    width:100px;
+    height:50px;
+    margin:auto;
+}
+/* Styling for section3 ends here */
+
+
+/* Styling for section4 starts here */
+#section4{
+    background-color: black;
+    padding-top:25px;
+    margin-top: 100px;
+    margin-bottom:80px;
+    padding-bottom:25px;
+}
+
+#body-download{
+    margin: auto auto;
+}
+
+#First-image{
+    margin-left:115px;
+    margin-top:20px;
+}
+
+#Second-image{
+    margin-left:125px;
+}
+
+#Third-image{
+    margin-left:60px;
+    margin-top:10px;
+}
+
+#Fourth-image{
+    margin-left:15px; 
+    margin-top:20px;
+}
+/* Styling for section4 ends here */
+
+
+/* Styling for section5 starts here */
+#Inno-h1-1{
+    text-shadow: 2px 2px 5px grey;
+}
+
+#Inno-row{
+    margin-top:70px;
+    height:400px;
+    background-color: rgb(91, 2, 255); 
+    margin-bottom: 50px;
+}
+
+#Inno-h1-2{
+    padding-left:55px; 
+    padding-top:50px; 
+    font-size:25px;
+}
+
+#Inno-para{
+    padding-left: 55px;
+}
+
+#Inno-img{
+    margin-left:585px; 
+    margin-top:-600px; 
+    height:450px;
+}
+/* Styling for section5 ends here */
+
+
+/* Styling for section6 starts here */
+#Img-h1{
+    text-shadow: 2px 2px 5px grey;
+}
+
+#Img-row{
+    margin-top:60px;
+}
+
+#Img-img1{
+    height:400px;
+}
+
+#Img-img2{
+    height:400px; 
+    margin-left:110px;
+}
+
+#Img-img3{
+    height:400px;
+}
+/* Styling for section6 ends here */
+
+
+/* Styling for section7 starts here */
+#Start-h1-1{
+    padding-top:70px;  
+    text-shadow: 3px 3px 5px grey; 
+    font-size:50px;
+}
+
+#Start-row{
+    margin-top:70px; 
+    margin-bottom:100px;
+}
+
+#Start-h2{
+    padding-top:130px;
+    font-weight:800; 
+    font-size:30px;
+    padding-right:120px;
+}
+
+#start-row1{
+    margin-top:10px;
+}
+
+#Start-card1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#Start-card_img1{
+    margin-left:30px; 
+    height:100px; 
+    width:100px; 
+    margin-bottom:-95px;
+}
+
+#Start-h1-2{
+    font-size:15px; 
+    padding-left:180px; 
+    padding-top:-20px;
+}
+
+#Start-para1{
+    padding-left:178px;
+}
+
+#Start-card_img2{
+    margin-left:30px; 
+    height:100px; 
+    width:100px; 
+    margin-bottom:-95px;
+}
+
+#Start-h1-3{
+    font-size:15px;  
+    padding-left:185px; 
+    padding-top:-20px;
+}
+
+#Start-para2{
+    padding-left:183px;
+}
+
+#start-row2{
+    margin-bottom:30px; 
+    margin-top:-10px;
+}
+
+#Start-card_img3{
+    margin-left:30px; 
+    height:100px; 
+    width:100px; 
+    margin-bottom:-95px;
+}
+
+#Start-h1-4{
+    font-size:15px; 
+    padding-left:180px;  
+    padding-top:-20px;
+}
+
+#Start-para3{
+    padding-left:180px;
+}
+
+#Start-card_img4{
+    margin-left:30px; 
+    height:100px; 
+    width:100px; 
+    margin-bottom:-95px;
+}
+
+#Start-h1-5{
+    font-size:15px; 
+    padding-left:180px;  
+    padding-top:-20px;
+}
+
+#Start-para4{
+    padding-left:180px;
+}
+/* Styling for section7 ends here */
+
+
+/* Styling for section8 starts here*/
+#section8{
+    height:500px;
+}
+
+#Slides-Card{
+    height:350px; 
+    margin-top:80px; 
+    border-radius:5px; 
+    box-shadow: 3px 5px rgb(123, 152, 231);
+}
+
+#Slides-Img{
+    height:150px; 
+    width:150px; 
+    margin-left:40px; 
+    margin-bottom:-80px; 
+    margin-top:90px;
+}
+
+#Slides-Para{
+    font-size:17px; 
+    margin-right:15px; 
+    margin-bottom:-80px; 
+    margin-top:100px;
+}
+
+#Slides-h5{
+    padding-top:95px; 
+    padding-left:35px;
+}
+
+#Slides-bold{
+    color:blue;
+}
+/* Styling for section8 ends here */
+
+
+/* Styling for section9 starts here */
+#logos-h1{
+    font-size:50px;  
+    text-shadow: 3px 3px 5px grey;
+}
+/* Styling for section9 ends here */
+
+
+/* Styling for section10 starts here */
+#section10{
+    background: linear-gradient(180deg, rgba(255, 200, 87, 0.74) 10.62%, rgba(27, 38, 75, 0.7)51.19%) , url('images/_Rectangle\ 5.1.png')no-repeat center center/cover;
+    background-attachment: fixed;
+    padding-bottom: 20px;
+    color: white;
+}
+
+#footerrow{
+    padding-top: 30px;
+    margin-left: 100px;
+}
+
+#footer-para{
+    font-size:19px;
+}
+
+#footer-input{
+    height: 40px; 
+    margin-top: 10px;
+    width:300px;
+}
+
+#footer-button{
+    height: 40px; 
+    color: white; 
+    background-color:rgba(70, 70, 236, 0.877);
+    width:100px;
+    margin-left:0px;
+}
+
+#footer-h1{
+    color: white; 
+    font-size: 30px; 
+    text-align: center;
+}
+/* Styling for section10 ends here */
